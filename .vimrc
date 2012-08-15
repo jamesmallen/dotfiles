@@ -82,7 +82,7 @@ au BufWinEnter *.* silent! loadview "make vim load view (state) (folds, cursor, 
 "}
 
 " Vim UI {
-let g:solarized_termtrans=1
+"let g:solarized_termtrans=1
 let g:solarized_termcolors=256
 set background=light
 colorscheme solarized                 " load a colorscheme
